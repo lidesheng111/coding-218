@@ -67,3 +67,5 @@
 ## 课程脑图
 
 ![](./other/naotu.png)
+
+测试github桌面版
