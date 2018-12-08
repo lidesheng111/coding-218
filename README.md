@@ -15,6 +15,7 @@
 * mysql要用5.7
 * npm慢的话，先安装cnpm替代npm即可
 
+test: 测试git命令行
 
 ## 项目目录介绍
 
